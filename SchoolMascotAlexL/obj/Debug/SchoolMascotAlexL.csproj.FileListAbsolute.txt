@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\bin\Debug\SchoolMascotAlexL.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\bin\Debug\SchoolMascotAlexL.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\bin\Debug\SchoolMascotAlexL.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\obj\Debug\SchoolMascotAlexL.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\obj\Debug\SchoolMascotAlexL.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\obj\Debug\SchoolMascotAlexL.frmSchoolMascot.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\obj\Debug\SchoolMascotAlexL.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\obj\Debug\SchoolMascotAlexL.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Lutkiewicz, Alexander (s253161)\Unit 1 (Problem Solving)\SchoolMascotAlexL\SchoolMascotAlexL\obj\Debug\SchoolMascotAlexL.pdb
